@@ -1,0 +1,5 @@
+test ERROR
+this is the WARN 
+log anomaly
+file operations ERROR
+file text
